@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="leacoachEntities-Web.config Connection String" description="leacoachEntities Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=leacoach.mssql.somee.com;initial catalog=leacoach;user id=edward0378_SQLLogin_1;password=g121lj7jfi;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Iván\\Desktop\\UPC\\Moviles\\apiLeacoachh\\LEACOACHAAPIREST\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='leacoachEntities']/@connectionString" />
+  </parameter>
+  <parameter name="leacoachEntities1-Web.config Connection String" description="leacoachEntities1 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=leacoach.mssql.somee.com;initial catalog=leacoach;user id=edward0378_SQLLogin_1;password=g121lj7jfi;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Iván\\Desktop\\UPC\\Moviles\\apiLeacoachh\\LEACOACHAAPIREST\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='leacoachEntities1']/@connectionString" />
+  </parameter>
+  <parameter name="leacoachEntities2-Web.config Connection String" description="leacoachEntities2 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=leacoach.mssql.somee.com;initial catalog=leacoach;user id=edward0378_SQLLogin_1;password=g121lj7jfi;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Iván\\Desktop\\UPC\\Moviles\\apiLeacoachh\\LEACOACHAAPIREST\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='leacoachEntities2']/@connectionString" />
+  </parameter>
+</parameters>

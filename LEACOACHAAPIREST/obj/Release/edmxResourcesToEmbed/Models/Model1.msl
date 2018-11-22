@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="leacoachModelStoreContainer" CdmEntityContainer="leacoachEntities2">
+    <EntitySetMapping Name="Careers">
+      <EntityTypeMapping TypeName="leacoachModel.Careers">
+        <MappingFragment StoreEntitySet="Careers">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comments">
+      <EntityTypeMapping TypeName="leacoachModel.Comments">
+        <MappingFragment StoreEntitySet="Comments">
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="publication_id" ColumnName="publication_id" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="leacoachModel.Courses">
+        <MappingFragment StoreEntitySet="Courses">
+          <ScalarProperty Name="career_id" ColumnName="career_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Favorites">
+      <EntityTypeMapping TypeName="leacoachModel.Favorites">
+        <MappingFragment StoreEntitySet="Favorites">
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="publication_id" ColumnName="publication_id" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="leacoachModel.Images">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="url_file" ColumnName="url_file" />
+          <ScalarProperty Name="id_publication" ColumnName="id_publication" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Notifications">
+      <EntityTypeMapping TypeName="leacoachModel.Notifications">
+        <MappingFragment StoreEntitySet="Notifications">
+          <ScalarProperty Name="tutor_id" ColumnName="tutor_id" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="text" ColumnName="text" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Publications">
+      <EntityTypeMapping TypeName="leacoachModel.Publications">
+        <MappingFragment StoreEntitySet="Publications">
+          <ScalarProperty Name="likes" ColumnName="likes" />
+          <ScalarProperty Name="premium" ColumnName="premium" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="type_id" ColumnName="type_id" />
+          <ScalarProperty Name="tutor_course_id" ColumnName="tutor_course_id" />
+          <ScalarProperty Name="views" ColumnName="views" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tutor_courses">
+      <EntityTypeMapping TypeName="leacoachModel.Tutor_courses">
+        <MappingFragment StoreEntitySet="Tutor_courses">
+          <ScalarProperty Name="id_course" ColumnName="id_course" />
+          <ScalarProperty Name="id_tutor" ColumnName="id_tutor" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tutors">
+      <EntityTypeMapping TypeName="leacoachModel.Tutors">
+        <MappingFragment StoreEntitySet="Tutors">
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="likes" ColumnName="likes" />
+          <ScalarProperty Name="url_Image" ColumnName="url_Image" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Types">
+      <EntityTypeMapping TypeName="leacoachModel.Types">
+        <MappingFragment StoreEntitySet="Types">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="leacoachModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="url_Image" ColumnName="url_Image" />
+          <ScalarProperty Name="premium" ColumnName="premium" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

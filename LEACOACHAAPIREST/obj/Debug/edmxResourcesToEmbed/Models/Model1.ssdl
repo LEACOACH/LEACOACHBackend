@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="leacoachModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Careers">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Comments">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="publication_id" Type="int" Nullable="false" />
+    <Property Name="comment" Type="varchar" MaxLength="8000" Nullable="false" />
+    <Property Name="date" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="career_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Favorites">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="publication_id" Type="int" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_publication" Type="int" Nullable="false" />
+    <Property Name="url_file" Type="varchar" MaxLength="5000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Notifications">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="100" />
+    <Property Name="text" Type="varchar" MaxLength="5000" />
+    <Property Name="date" Type="varchar" MaxLength="50" />
+    <Property Name="tutor_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Publications">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="1000" Nullable="false" />
+    <Property Name="views" Type="int" Nullable="false" />
+    <Property Name="tutor_course_id" Type="int" Nullable="false" />
+    <Property Name="type_id" Type="int" Nullable="false" />
+    <Property Name="date" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="description" Type="varchar" MaxLength="600" />
+    <Property Name="url" Type="varchar" MaxLength="5000" />
+    <Property Name="premium" Type="bit" Nullable="false" />
+    <Property Name="likes" Type="int" />
+  </EntityType>
+  <EntityType Name="Tutor_courses">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_tutor" Type="int" Nullable="false" />
+    <Property Name="id_course" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tutors">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="url_Image" Type="varchar" MaxLength="5000" />
+    <Property Name="likes" Type="int" />
+    <Property Name="phone_number" Type="varchar" MaxLength="50" />
+    <Property Name="description" Type="varchar" MaxLength="5000" />
+  </EntityType>
+  <EntityType Name="Types">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="premium" Type="bit" Nullable="false" />
+    <Property Name="url_Image" Type="varchar" MaxLength="5000" />
+  </EntityType>
+  <Association Name="FK_Comments_Publications">
+    <End Role="Publications" Type="Self.Publications" Multiplicity="1" />
+    <End Role="Comments" Type="Self.Comments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publications">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="publication_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Courses_Careers">
+    <End Role="Careers" Type="Self.Careers" Multiplicity="1" />
+    <End Role="Courses" Type="Self.Courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Careers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Courses">
+        <PropertyRef Name="career_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Favorites_Publications">
+    <End Role="Publications" Type="Self.Publications" Multiplicity="1" />
+    <End Role="Favorites" Type="Self.Favorites" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publications">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Favorites">
+        <PropertyRef Name="publication_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Favorites_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Favorites" Type="Self.Favorites" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Favorites">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_images_Publications">
+    <End Role="Publications" Type="Self.Publications" Multiplicity="1" />
+    <End Role="Images" Type="Self.Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publications">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Images">
+        <PropertyRef Name="id_publication" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Notifications_Tutors">
+    <End Role="Tutors" Type="Self.Tutors" Multiplicity="1" />
+    <End Role="Notifications" Type="Self.Notifications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutors">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Notifications">
+        <PropertyRef Name="tutor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Publications_Tutor_courses">
+    <End Role="Tutor_courses" Type="Self.Tutor_courses" Multiplicity="1" />
+    <End Role="Publications" Type="Self.Publications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutor_courses">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Publications">
+        <PropertyRef Name="tutor_course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Publications_Types">
+    <End Role="Types" Type="Self.Types" Multiplicity="1" />
+    <End Role="Publications" Type="Self.Publications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Types">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Publications">
+        <PropertyRef Name="type_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tutor_courses_Courses">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="1" />
+    <End Role="Tutor_courses" Type="Self.Tutor_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Tutor_courses">
+        <PropertyRef Name="id_course" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tutor_courses_Tutors">
+    <End Role="Tutors" Type="Self.Tutors" Multiplicity="1" />
+    <End Role="Tutor_courses" Type="Self.Tutor_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutors">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Tutor_courses">
+        <PropertyRef Name="id_tutor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="leacoachModelStoreContainer">
+    <EntitySet Name="Careers" EntityType="Self.Careers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Comments" EntityType="Self.Comments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Favorites" EntityType="Self.Favorites" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Images" EntityType="Self.Images" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Notifications" EntityType="Self.Notifications" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Publications" EntityType="Self.Publications" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tutor_courses" EntityType="Self.Tutor_courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tutors" EntityType="Self.Tutors" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Types" EntityType="Self.Types" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Comments_Publications" Association="Self.FK_Comments_Publications">
+      <End Role="Publications" EntitySet="Publications" />
+      <End Role="Comments" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Courses_Careers" Association="Self.FK_Courses_Careers">
+      <End Role="Careers" EntitySet="Careers" />
+      <End Role="Courses" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Favorites_Publications" Association="Self.FK_Favorites_Publications">
+      <End Role="Publications" EntitySet="Publications" />
+      <End Role="Favorites" EntitySet="Favorites" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Favorites_Users" Association="Self.FK_Favorites_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Favorites" EntitySet="Favorites" />
+    </AssociationSet>
+    <AssociationSet Name="FK_images_Publications" Association="Self.FK_images_Publications">
+      <End Role="Publications" EntitySet="Publications" />
+      <End Role="Images" EntitySet="Images" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Notifications_Tutors" Association="Self.FK_Notifications_Tutors">
+      <End Role="Tutors" EntitySet="Tutors" />
+      <End Role="Notifications" EntitySet="Notifications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Publications_Tutor_courses" Association="Self.FK_Publications_Tutor_courses">
+      <End Role="Tutor_courses" EntitySet="Tutor_courses" />
+      <End Role="Publications" EntitySet="Publications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Publications_Types" Association="Self.FK_Publications_Types">
+      <End Role="Types" EntitySet="Types" />
+      <End Role="Publications" EntitySet="Publications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tutor_courses_Courses" Association="Self.FK_Tutor_courses_Courses">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Tutor_courses" EntitySet="Tutor_courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tutor_courses_Tutors" Association="Self.FK_Tutor_courses_Tutors">
+      <End Role="Tutors" EntitySet="Tutors" />
+      <End Role="Tutor_courses" EntitySet="Tutor_courses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

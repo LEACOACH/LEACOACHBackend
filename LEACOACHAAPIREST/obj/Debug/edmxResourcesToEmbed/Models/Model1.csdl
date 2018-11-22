@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="leacoachModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="leacoachEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Careers" EntityType="leacoachModel.Careers" />
+    <EntitySet Name="Comments" EntityType="leacoachModel.Comments" />
+    <EntitySet Name="Courses" EntityType="leacoachModel.Courses" />
+    <EntitySet Name="Favorites" EntityType="leacoachModel.Favorites" />
+    <EntitySet Name="Images" EntityType="leacoachModel.Images" />
+    <EntitySet Name="Notifications" EntityType="leacoachModel.Notifications" />
+    <EntitySet Name="Publications" EntityType="leacoachModel.Publications" />
+    <EntitySet Name="Tutor_courses" EntityType="leacoachModel.Tutor_courses" />
+    <EntitySet Name="Tutors" EntityType="leacoachModel.Tutors" />
+    <EntitySet Name="Types" EntityType="leacoachModel.Types" />
+    <EntitySet Name="Users" EntityType="leacoachModel.Users" />
+    <AssociationSet Name="FK_Courses_Careers" Association="leacoachModel.FK_Courses_Careers">
+      <End Role="Careers" EntitySet="Careers" />
+      <End Role="Courses" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Comments_Publications" Association="leacoachModel.FK_Comments_Publications">
+      <End Role="Publications" EntitySet="Publications" />
+      <End Role="Comments" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tutor_courses_Courses" Association="leacoachModel.FK_Tutor_courses_Courses">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Tutor_courses" EntitySet="Tutor_courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Favorites_Publications" Association="leacoachModel.FK_Favorites_Publications">
+      <End Role="Publications" EntitySet="Publications" />
+      <End Role="Favorites" EntitySet="Favorites" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Favorites_Users" Association="leacoachModel.FK_Favorites_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Favorites" EntitySet="Favorites" />
+    </AssociationSet>
+    <AssociationSet Name="FK_images_Publications" Association="leacoachModel.FK_images_Publications">
+      <End Role="Publications" EntitySet="Publications" />
+      <End Role="Images" EntitySet="Images" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Notifications_Tutors" Association="leacoachModel.FK_Notifications_Tutors">
+      <End Role="Tutors" EntitySet="Tutors" />
+      <End Role="Notifications" EntitySet="Notifications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Publications_Tutor_courses" Association="leacoachModel.FK_Publications_Tutor_courses">
+      <End Role="Tutor_courses" EntitySet="Tutor_courses" />
+      <End Role="Publications" EntitySet="Publications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Publications_Types" Association="leacoachModel.FK_Publications_Types">
+      <End Role="Types" EntitySet="Types" />
+      <End Role="Publications" EntitySet="Publications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tutor_courses_Tutors" Association="leacoachModel.FK_Tutor_courses_Tutors">
+      <End Role="Tutors" EntitySet="Tutors" />
+      <End Role="Tutor_courses" EntitySet="Tutor_courses" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Careers">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Courses" Relationship="leacoachModel.FK_Courses_Careers" FromRole="Careers" ToRole="Courses" />
+  </EntityType>
+  <EntityType Name="Comments">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="publication_id" Type="Int32" Nullable="false" />
+    <Property Name="comment" Type="String" Nullable="false" MaxLength="8000" FixedLength="false" Unicode="false" />
+    <Property Name="date" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Publications" Relationship="leacoachModel.FK_Comments_Publications" FromRole="Comments" ToRole="Publications" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="career_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Careers" Relationship="leacoachModel.FK_Courses_Careers" FromRole="Courses" ToRole="Careers" />
+    <NavigationProperty Name="Tutor_courses" Relationship="leacoachModel.FK_Tutor_courses_Courses" FromRole="Courses" ToRole="Tutor_courses" />
+  </EntityType>
+  <EntityType Name="Favorites">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="publication_id" Type="Int32" Nullable="false" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Publications" Relationship="leacoachModel.FK_Favorites_Publications" FromRole="Favorites" ToRole="Publications" />
+    <NavigationProperty Name="Users" Relationship="leacoachModel.FK_Favorites_Users" FromRole="Favorites" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_publication" Type="Int32" Nullable="false" />
+    <Property Name="url_file" Type="String" Nullable="false" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Publications" Relationship="leacoachModel.FK_images_Publications" FromRole="Images" ToRole="Publications" />
+  </EntityType>
+  <EntityType Name="Notifications">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="title" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="text" Type="String" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <Property Name="date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="tutor_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Tutors" Relationship="leacoachModel.FK_Notifications_Tutors" FromRole="Notifications" ToRole="Tutors" />
+  </EntityType>
+  <EntityType Name="Publications">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="views" Type="Int32" Nullable="false" />
+    <Property Name="tutor_course_id" Type="Int32" Nullable="false" />
+    <Property Name="type_id" Type="Int32" Nullable="false" />
+    <Property Name="date" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="600" FixedLength="false" Unicode="false" />
+    <Property Name="url" Type="String" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <Property Name="premium" Type="Boolean" Nullable="false" />
+    <Property Name="likes" Type="Int32" />
+    <NavigationProperty Name="Comments" Relationship="leacoachModel.FK_Comments_Publications" FromRole="Publications" ToRole="Comments" />
+    <NavigationProperty Name="Favorites" Relationship="leacoachModel.FK_Favorites_Publications" FromRole="Publications" ToRole="Favorites" />
+    <NavigationProperty Name="Images" Relationship="leacoachModel.FK_images_Publications" FromRole="Publications" ToRole="Images" />
+    <NavigationProperty Name="Tutor_courses" Relationship="leacoachModel.FK_Publications_Tutor_courses" FromRole="Publications" ToRole="Tutor_courses" />
+    <NavigationProperty Name="Types" Relationship="leacoachModel.FK_Publications_Types" FromRole="Publications" ToRole="Types" />
+  </EntityType>
+  <EntityType Name="Tutor_courses">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_tutor" Type="Int32" Nullable="false" />
+    <Property Name="id_course" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Courses" Relationship="leacoachModel.FK_Tutor_courses_Courses" FromRole="Tutor_courses" ToRole="Courses" />
+    <NavigationProperty Name="Publications" Relationship="leacoachModel.FK_Publications_Tutor_courses" FromRole="Tutor_courses" ToRole="Publications" />
+    <NavigationProperty Name="Tutors" Relationship="leacoachModel.FK_Tutor_courses_Tutors" FromRole="Tutor_courses" ToRole="Tutors" />
+  </EntityType>
+  <EntityType Name="Tutors">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="url_Image" Type="String" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <Property Name="likes" Type="Int32" />
+    <Property Name="phone_number" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Notifications" Relationship="leacoachModel.FK_Notifications_Tutors" FromRole="Tutors" ToRole="Notifications" />
+    <NavigationProperty Name="Tutor_courses" Relationship="leacoachModel.FK_Tutor_courses_Tutors" FromRole="Tutors" ToRole="Tutor_courses" />
+  </EntityType>
+  <EntityType Name="Types">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Publications" Relationship="leacoachModel.FK_Publications_Types" FromRole="Types" ToRole="Publications" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="premium" Type="Boolean" Nullable="false" />
+    <Property Name="url_Image" Type="String" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Favorites" Relationship="leacoachModel.FK_Favorites_Users" FromRole="Users" ToRole="Favorites" />
+  </EntityType>
+  <Association Name="FK_Courses_Careers">
+    <End Type="leacoachModel.Careers" Role="Careers" Multiplicity="1" />
+    <End Type="leacoachModel.Courses" Role="Courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Careers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Courses">
+        <PropertyRef Name="career_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Comments_Publications">
+    <End Type="leacoachModel.Publications" Role="Publications" Multiplicity="1" />
+    <End Type="leacoachModel.Comments" Role="Comments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publications">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="publication_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tutor_courses_Courses">
+    <End Type="leacoachModel.Courses" Role="Courses" Multiplicity="1" />
+    <End Type="leacoachModel.Tutor_courses" Role="Tutor_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Tutor_courses">
+        <PropertyRef Name="id_course" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Favorites_Publications">
+    <End Type="leacoachModel.Publications" Role="Publications" Multiplicity="1" />
+    <End Type="leacoachModel.Favorites" Role="Favorites" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publications">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Favorites">
+        <PropertyRef Name="publication_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Favorites_Users">
+    <End Type="leacoachModel.Users" Role="Users" Multiplicity="1" />
+    <End Type="leacoachModel.Favorites" Role="Favorites" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Favorites">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_images_Publications">
+    <End Type="leacoachModel.Publications" Role="Publications" Multiplicity="1" />
+    <End Type="leacoachModel.Images" Role="Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publications">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Images">
+        <PropertyRef Name="id_publication" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Notifications_Tutors">
+    <End Type="leacoachModel.Tutors" Role="Tutors" Multiplicity="1" />
+    <End Type="leacoachModel.Notifications" Role="Notifications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutors">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Notifications">
+        <PropertyRef Name="tutor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Publications_Tutor_courses">
+    <End Type="leacoachModel.Tutor_courses" Role="Tutor_courses" Multiplicity="1" />
+    <End Type="leacoachModel.Publications" Role="Publications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutor_courses">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Publications">
+        <PropertyRef Name="tutor_course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Publications_Types">
+    <End Type="leacoachModel.Types" Role="Types" Multiplicity="1" />
+    <End Type="leacoachModel.Publications" Role="Publications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Types">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Publications">
+        <PropertyRef Name="type_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tutor_courses_Tutors">
+    <End Type="leacoachModel.Tutors" Role="Tutors" Multiplicity="1" />
+    <End Type="leacoachModel.Tutor_courses" Role="Tutor_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutors">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Tutor_courses">
+        <PropertyRef Name="id_tutor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

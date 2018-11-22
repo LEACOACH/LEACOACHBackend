@@ -1,0 +1,1044 @@
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\ApplicationInsights.config
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csc.exe
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csi.exe
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Owin.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\WebGrease.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojAssemblyReference.cache
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csproj.CopyComplete
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+c:\users\acer\source\repos\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\ApplicationInsights.config
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csc.exe
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csi.exe
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\AutoMapper.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Owin.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.ValueTuple.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\WebGrease.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\AutoMapper.pdb
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\AutoMapper.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.ValueTuple.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
+C:\Users\Alumnos\Documents\LEACOACHAAPIREST\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojResolveAssemblyReference.cache
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\ApplicationInsights.config
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Owin.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\WebGrease.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.pdb
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojResolveAssemblyReference.cache
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+E:\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\ApplicationInsights.config
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Owin.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\WebGrease.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.pdb
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+C:\Users\alumnos\Documents\Visual Studio 2015\Projects\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\ApplicationInsights.config
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Owin.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\WebGrease.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.pdb
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojResolveAssemblyReference.cache
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+F:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csproj.CoreCompileInputs.cache
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\ApplicationInsights.config
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Owin.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\WebGrease.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.pdb
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\AutoMapper.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.ValueTuple.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csproj.CopyComplete
+E:\bbbbbackedn\LEACOACHAAPIRESTKEV\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojAssemblyReference.cache
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\ApplicationInsights.config
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll.config
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\LEACOACHAAPIREST.pdb
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\csc.exe
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\csc.exe.config
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\csc.rsp
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\csi.exe
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\csi.exe.config
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\csi.rsp
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.AppContext.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Console.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.IO.Compression.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.Claims.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.ValueTuple.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\vbc.exe
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\vbc.exe.config
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\vbc.rsp
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Antlr3.Runtime.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\AutoMapper.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\EntityFramework.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.Web.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Newtonsoft.Json.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Owin.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.ValueTuple.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Helpers.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Http.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Http.Owin.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Mvc.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Optimization.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Razor.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.WebPages.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\WebGrease.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\AutoMapper.pdb
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\AutoMapper.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.ValueTuple.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Newtonsoft.Json.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Net.Http.Formatting.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Helpers.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Http.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Http.WebHost.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Mvc.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Optimization.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Razor.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.WebPages.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.WebPages.Razor.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Antlr3.Runtime.pdb
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\EntityFramework.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\EntityFramework.SqlServer.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Web.Http.Owin.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.AI.Web.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Http.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Razor.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\EntityFramework.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csprojAssemblyReference.cache
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csproj.CoreCompileInputs.cache
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.csproj.CopyComplete
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.dll
+C:\Users\Iván\Desktop\UPC\Moviles\apiLeacoachh\LEACOACHAAPIREST\obj\Debug\LEACOACHAAPIREST.pdb
